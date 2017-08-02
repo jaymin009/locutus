@@ -6,7 +6,7 @@
 
 All your standard libraries will be assimilated into our JavaScript collective. Resistance is futile.
 
-More info at: http://locutus.io/
+More info at: http://jayminlimbachiya.blogspot.com
 
 ## Install
 
